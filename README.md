@@ -41,17 +41,7 @@ To run LocalGhost locally, ensure you have [Node.js](https://nodejs.org/) instal
     ```
     This command runs both the React (Vite) server and the Electron main process concurrently.
 
-## Building for Production
 
-To create a distributable Windows installer and AppX package:
-
-```bash
-npm run build
-```
-
-This will generate the output in the `release` directory, including:
-*   NSIS Installer (`.exe`)
-*   AppX Package (`.appx`) for Microsoft Store submission.
 
 ## Configuration
 
