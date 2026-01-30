@@ -49,4 +49,4 @@ LocalGhost processes strict Content Security Policy (CSP) headers for security. 
 
 ## License
 
-Copyright © LocalGhost Dev. All rights reserved.
+Copyright © Sukhesh. All rights reserved.
