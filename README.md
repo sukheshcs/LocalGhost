@@ -20,26 +20,6 @@ LocalGhost is a comprehensive desktop application designed for network analysis,
 *   **Data Visualization**: [Chart.js](https://www.chartjs.org/), [Vis.js](https://visjs.org/)
 *   **Network Utilities**: Custom Node.js implementations for scanning, pinging, and MAC address lookup.
 
-## Installation
-
-To run LocalGhost locally, ensure you have [Node.js](https://nodejs.org/) installed, then follow these steps:
-
-1.  **Clone the repository:**
-    ```bash
-    git clone https://github.com/sukheshcs/localghost.git
-    cd localghost
-    ```
-
-2.  **Install dependencies:**
-    ```bash
-    npm install
-    ```
-
-3.  **Run in development mode:**
-    ```bash
-    npm run dev
-    ```
-    This command runs both the React (Vite) server and the Electron main process concurrently.
 
 
 
